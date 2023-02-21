@@ -1,2 +1,2 @@
 # hello-world
-repositório exercício 
+repositório exercício da aula 01 setup
